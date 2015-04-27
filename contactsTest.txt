@@ -1,0 +1,7 @@
+Contact,0,James,is the first contact
+Contact,2,John,is the third contact
+Contact,1,Julie,is the second contact
+Contact,3,Jess,is a cat
+Meeting,0,meetingContactIDs;0;2;1,01.03.2015, 
+Meeting,2,meetingContactIDs;0;2;1;3,01.07.2015
+Meeting,1,meetingContactIDs;0;1,01.03.2015, Awesome holiday!
